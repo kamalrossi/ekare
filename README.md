@@ -1,6 +1,6 @@
 eKare is a landing page for hospital management in digital platform. The modules include homespage, service, feature, about us, hosipital plan and testimonial
 
--project page:https://kamalrossi.github.io/medlytics/
+-project page:https://kamalrossi.github.io/ekare/
 
 -Keywords: ReactJS, JSX, CSS, HTML5, MedTech
 
